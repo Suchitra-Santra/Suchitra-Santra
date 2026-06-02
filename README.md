@@ -140,7 +140,7 @@ const designer_dev = {
 | **Consistency** | A design system is a designer's best friend |
 | **Accessibility** | Great design works for everyone |
 | **Simplicity** | Remove until you can't remove anymore |
-| **Feedback** | Every interaction deserves a reaction |
+| **Feedback** | Every interaction deserves a reaction. |
 
 </div>
 
