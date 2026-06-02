@@ -113,7 +113,7 @@ const designer_dev = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
----
+
 
 
 
