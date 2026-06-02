@@ -109,7 +109,10 @@ const designer_dev = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-Santra&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" />
 </div>
-
+<!-- Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+</div>
 ---
 
 
