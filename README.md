@@ -31,7 +31,7 @@ const designer_dev = {
   role:        ["UI/UX Designer", "Frontend Developer"],
   location:    "West Bengal, India 🇮🇳",
   languages:   ["HTML", "CSS", "JavaScript", "TypeScript","Python"],
-  passion:     "Turning ideas into pixel-perfect", "user-friendly products",
+  passion:     ["Turning ideas into pixel-perfect", "user-friendly products"],
   currentlyLearning: ["Three.js", "Framer Motion", "Design Systems"],
   funFact:     "I debug with console.log and I'm not ashamed 😄",
   available:   true  // Open for freelance & collaboration!
