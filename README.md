@@ -121,9 +121,11 @@ const designer_dev = {
 </div>
 
 ---
+ ## 📊 Language Statistics
 
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suchitra-Santra&theme=github" />
+</p>
 
 ## 💡 UI/UX Design Principles I Live By
 
