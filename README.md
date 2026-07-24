@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I2aGwxbjc5bTI5bzE0amV1MmNoaXR5bjc5YXU4ZWV3azJhZzg3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cwHl87hujyFtS/giphy.gif"
+    alt="Coding Animation"
+    width="650"
+  />
+</p>
+
+
 <div align="center">
 
 <!-- Animated Header Banner -->
