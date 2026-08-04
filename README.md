@@ -123,19 +123,8 @@ const designer_dev = {
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suchitra-Santra&theme=tokyo-night&hide_border=true" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suchitra-Santra&theme=tokyonight" />
-
-</div>
 
 ---
 
