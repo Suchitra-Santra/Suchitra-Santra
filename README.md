@@ -137,11 +137,14 @@ const designer_dev = {
 </div>
 
 ---
- ## 📊 Language Statistics
+## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suchitra-Santra&theme=github" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ## 💡 UI/UX Design Principles I Live By
 
