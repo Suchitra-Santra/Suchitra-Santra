@@ -103,22 +103,38 @@ const designer_dev = {
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats & Streak side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suchitra-Santra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suchitra-Santra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+<br>
 
-<!-- GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-Santra&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" />
+
+<img src="https://streak-stats.demolab.com?user=Suchitra-Santra&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suchitra-Santra&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suchitra-Santra&theme=tokyonight" />
+
 </div>
 
 ---
