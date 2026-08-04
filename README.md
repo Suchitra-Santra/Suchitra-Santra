@@ -136,12 +136,11 @@ const designer_dev = {
 
 </div>
 
----
 ## 💻 Most Used Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchitra-Santra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
